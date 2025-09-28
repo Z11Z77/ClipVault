@@ -12,3 +12,4 @@ ClipVault values your privacy. We do not collect personal data except what is ne
 This policy may change as our app evolves.
 
 
+
