@@ -1,0 +1,5 @@
+# Minimal Jekyll config
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
